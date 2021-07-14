@@ -1,6 +1,5 @@
-import { Icon } from './Icon';
-
-import '../styles/button.scss';
+import { Icon } from '../Icon/Icon';
+import '../Button/button.scss';
 import { ButtonHTMLAttributes } from 'react';
 
 interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
