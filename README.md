@@ -1,5 +1,5 @@
 <h1 align="center">
-Rocketseat - React  ⚛️ 
+Rocketseat - Ignite - React  ⚛️ 
 </h1> 
 
 <h1 align="center">
@@ -35,7 +35,7 @@ WatchMe
 ### Webpage
 
 - Open the folder ignite-reactjs-challenge02.git in your system's shell
-- Run `$ yarn dev`
+- Run `$yarn server` and `$ yarn dev`
 
 # :closed_book: License
 
