@@ -1,15 +1,19 @@
-<h1 align="center">
-Rocketseat - Ignite - React  ⚛️ 
-</h1> 
+<h1 align="center">  <img src="./.github/Ignite.png" width="800px" alt="Home page"> </h1> 
+
 
 <h1 align="center">
-WatchMe
-</h1>
+    <a href="https://pt-br.reactjs.org/">  ⚛️  ReactJS   </a>
+</h1> 
+
+<h2 align="center"><strong>🚀 Challenge 02: Componentizing the application </strong></h2>
+<br>
+<h1 align="center">
+🤩 WatchMe
+</h1> 
 
 # :books: About
 
-[Ignite Bootcamp](https://rocketseat.com.br/ignite) <br/>
- This project has the purpose of code refactoring to make the code more efficient and maintainable.
+This project has the purpose of code refactoring to make it more efficient and maintainable: The main objective of this challenge is to create smaller and more manageable components ​to render a listing of films by genre.
  
 # :art: Layout
 
@@ -35,7 +39,7 @@ WatchMe
 ### Webpage
 
 - Open the folder ignite-reactjs-challenge02.git in your system's shell
-- Run `$yarn server` and `$ yarn dev`
+- Run `$yarn server` and `$yarn dev`
 
 # :closed_book: License
 

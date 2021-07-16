@@ -2,6 +2,9 @@ import { GenreResponseProps } from "../../App"
 import { MovieCard } from "../MovieCard/MovieCard"
 import '../Content/content.scss';
 
+
+
+
 interface MovieProps {
   imdbID: string;
   Title: string;
