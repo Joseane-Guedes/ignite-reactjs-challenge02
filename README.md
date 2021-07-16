@@ -53,4 +53,5 @@ This project is under the [MIT license](./LICENSE).
    <b> &#60;/&#62; by <a href="https://www.linkedin.com/in/joseane-guedes/">Joseane Guedes</a></b>
 </p> -->
 
-Made with :purple_heart: by Joseane Guedes
+Made with :purple_heart: by [Rocketseat](https://rocketseat.com.br/ignite) :rocket: and [Joseane Guedes ](https://github.com/Joseane-Guedes) :woman_technologist: 
+
