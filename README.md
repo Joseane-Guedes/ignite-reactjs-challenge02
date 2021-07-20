@@ -32,14 +32,10 @@ This project has the purpose of code refactoring to make it more efficient and m
 
 # 🔧 How to run
 
-- Download this project to your computer or use the git command `git clone git@github.com:Joseane-Guedes/ignite-reactjs-challenge02.git`
-
-- Run `$ yarn install` to install the project's modules
-
-### Webpage
-
-- Open the folder ignite-reactjs-challenge02.git in your system's shell
-- Run `$yarn server` and `$yarn dev`
+- $ git clone git@github.com:Joseane-Guedes/ignite-reactjs-challenge02.git
+- $ cd ignite-reactjs-challenge02
+- Run $ yarn install
+- Run $ yarn dev 
 
 # :closed_book: License
 
