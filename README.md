@@ -30,13 +30,31 @@ This project has the purpose of code refactoring to make it more efficient and m
 - SCSS
 - HTML
 
-# 🔧 How to run
+# 🔧 Run Locally
 
-- $ git clone git@github.com:Joseane-Guedes/ignite-reactjs-challenge02.git
-- $ cd ignite-reactjs-challenge02
-- Run $ yarn install
-- Run $ yarn dev 
+Clone the project
 
+```bash
+  git clone git@github.com:Joseane-Guedes/ignite-reactjs-challenge02.git
+```
+
+Go to the project directory
+
+```bash
+  cd ignite-reactjs-challenge02
+```
+
+Install dependencies
+
+```bash
+  yarn install
+```
+
+Start the server
+
+```bash
+  yarn dev 
+```
 # :closed_book: License
 
 Released in 2021 :closed_book: License
