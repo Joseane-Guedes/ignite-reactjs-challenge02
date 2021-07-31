@@ -25,10 +25,13 @@ This project has the purpose of code refactoring to make it more efficient and m
 
 ### :hammer: Tecnologies
 
-- React.js
+- React
 - Typescript
+- Yarn
+- Webpack
 - SCSS
-- HTML
+- JSON Server
+- Axios
 
 # 🔧 Run Locally
 
