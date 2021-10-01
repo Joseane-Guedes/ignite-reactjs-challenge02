@@ -13,7 +13,7 @@
 
 # :books: About
 
-This project has the purpose of code refactoring to make it more efficient and maintainable: The main objective of this challenge is to create smaller and more manageable components ​to render a listing of films by genre.
+The purpose of this project is code refactoring to make it more efficient and maintainable! Let's create smaller and more manageable components ​to render a listing of films by genre.
  
 # :art: Layout
 
